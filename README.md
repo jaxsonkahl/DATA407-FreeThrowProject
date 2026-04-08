@@ -40,6 +40,9 @@ https://www.basketball-reference.com
 - `PlayerData.txt`  
   Dataset containing NBA player free throw statistics
 
+- `COSC407 Final Report.pdf`
+  Final Report in PDF form
+
 ---
 
 
